@@ -6,10 +6,11 @@
 <h3 align="center">Project Title</h3>
 ---
 
+
 ## 📝 Table of Contents
 
-- [Factorial using loop](#https://github.com/chetankoli1/CoreJava/blob/master/CoreJava/FactorialUsingLoop.java)
-- [Factorial using recursion](#https://github.com/chetankoli1/CoreJava/blob/master/Recursion/FactorialUsingRecursion.java)
+- [About](#about)
+- [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
 - [Getting Started](#getting_started)
