@@ -4,12 +4,11 @@
 </p>
 
 <h3 align="center">Project Title</h3>
----
 
 
 ## 📝 Table of Contents
 
-- [Factorial using loop](#about)
+- [Factorial using loop](#https://github.com/chetankoli1/CoreJava/blob/master/CoreJava/FactorialUsingLoop.java)
 - [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
