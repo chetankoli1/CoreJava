@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FactorialUsingLoop",
+            "request": "launch",
+            "mainClass": "CoreJava.FactorialUsingLoop",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckBinary",
+            "request": "launch",
+            "mainClass": "Strings.Problems.CheckBinary",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "Launch FactorialUsingRecursion",
             "request": "launch",
             "mainClass": "Recursion.FactorialUsingRecursion",

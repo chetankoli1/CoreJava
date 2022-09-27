@@ -2,7 +2,7 @@ package Strings.Problems;
 
 public class CheckBinary {
     boolean isCheck(String str){
-        for (int i = 0; i < str.length(); i++) {
+        for (int i = 0; i < str.length();) {
             if (str.charAt(i) != '1' && str.charAt(i) != '0') {
                 return false;
             }
