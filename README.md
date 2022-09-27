@@ -8,7 +8,7 @@
 
 ## 📝 Table of Contents
 
-- [Factorial using loop](https://github.com/chetankoli1/CoreJava/blob/master/CoreJava/FactorialUsingLoop.java)
+- <a href="https://github.com/chetankoli1/CoreJava/blob/master/Recursion/FactorialUsingRecursion.java">Factorial Using recursion.</a>
 - [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
