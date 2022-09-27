@@ -1,0 +1,148 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FactorialUsingRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.FactorialUsingRecursion",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch One",
+            "request": "launch",
+            "mainClass": "Recursion.One",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simple",
+            "request": "launch",
+            "mainClass": "Swaping.Simple",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "Recursion.First",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Arrays.Fibonacci",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swaping",
+            "request": "launch",
+            "mainClass": "Sorting.Swaping",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch HackerEarthStringProblem",
+            "request": "launch",
+            "mainClass": "Strings.Problems.HackerEarthStringProblem",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Strings.Problems.Anagram",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "BitsMan.DecimalToBinary",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BitsMan.BinaryToDecimal",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch OtherDuplicate",
+            "request": "launch",
+            "mainClass": "HackerRank.OtherDuplicate",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Searching",
+            "request": "launch",
+            "mainClass": "Strings.Searching",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputOutput",
+            "request": "launch",
+            "mainClass": "CoreJava.InputOutput",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuilder1",
+            "request": "launch",
+            "mainClass": "Strings.StringBuilder1",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Blocks",
+            "request": "launch",
+            "mainClass": "CoreJava.Blocks",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_3d",
+            "request": "launch",
+            "mainClass": "Arrays.Array_3d",
+            "projectName": "Java_72da403b"
+        }
+    ]
+}

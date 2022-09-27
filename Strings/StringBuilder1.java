@@ -1,5 +1,4 @@
 package Strings;
-import java.lang.*;
 
 public class StringBuilder1 {
 

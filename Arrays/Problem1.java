@@ -20,6 +20,8 @@ public class Problem1 {
             } 
             System.out.println("Item Not Found In list"); 
          }
+
+         sc.close();
          
     }
 
