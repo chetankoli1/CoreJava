@@ -8,7 +8,7 @@
 
 ## 📝 Table of Contents
 
-- [Factorial using loop](#https://github.com/chetankoli1/CoreJava/blob/master/CoreJava/FactorialUsingLoop.java)
+- [Factorial using loop](https://github.com/chetankoli1/CoreJava/blob/master/CoreJava/FactorialUsingLoop.java)
 - [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
@@ -20,5 +20,4 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
 
