@@ -1,5 +1,6 @@
 package Recursion;
 
+//factorial using recursion
 public class FactorialUsingRecursion {
     public static int findFactorialOfn(int n){
         if(n == 0 || n == 1){
