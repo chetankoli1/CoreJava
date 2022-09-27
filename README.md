@@ -9,7 +9,7 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
+- [Factorial using loop](#about)
 - [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
