@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GuessTheNumbers",
+            "request": "launch",
+            "mainClass": "CoreJava.GuessTheNumbers",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibbonachiUsingRecursion",
+            "request": "launch",
+            "mainClass": "Recursion.FibbonachiUsingRecursion",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "Launch FactorialUsingLoop",
             "request": "launch",
             "mainClass": "CoreJava.FactorialUsingLoop",
